@@ -1,19 +1,19 @@
 ## 🛡️ Chas Challenge 2025 – *Project Sentinel*
 
-Se farorna innan de händer, oavsett var du befinner dig.
-**Sentinel** är ett smart IoT-baserat övervakningssystem som ger dig total kontroll över miljö och säkerhet i realtid.
+See dangers before they happen, no matter where you are.
+**Sentinel** is a smart IoT-based monitoring system that gives you complete control over environmental and safety data in real time.
 
-Via vår app kan du smidigt följa:
+Through our app, you can easily monitor:
 
-* Temperatur
-* Gasnivåer
-* Hjärtfrekvens
-* Fallolyckor
-* Rörelse och mer
+* Temperature
+* Gas levels
+* Heart rate
+* Fall incidents
+* Motion — and more
 
-Perfekt för arbetsplatser där trygghet och snabb reaktion är avgörande.
-Med intelligenta varningar, användarhantering och live-uppdateringar har du alltid full översikt – direkt i mobilen.
+Perfect for workplaces where safety and rapid response are critical.
+With intelligent alerts, user management, and live updates, you’ll always have full oversight — right in your pocket.
 
-Byggt av Team Code 6 för arbetsplatser som vägrar tumma på säkerheten.
+Built by **Team Code 6** for workplaces that refuse to compromise on safety.
 
-**Sentinel – trygghet på riktigt.**
+**Sentinel — safety made real.**
