@@ -1,12 +1,19 @@
-## Awesome introduction.
+## 🛡️ Chas Challenge 2025 – *Project Sentinel*
 
-<!--
+Se farorna innan de händer, oavsett var du befinner dig.
+**Sentinel** är ett smart IoT-baserat övervakningssystem som ger dig total kontroll över miljö och säkerhet i realtid.
 
-**Here are some ideas to get you started:**
+Via vår app kan du smidigt följa:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* Temperatur
+* Gasnivåer
+* Hjärtfrekvens
+* Fallolyckor
+* Rörelse och mer
+
+Perfekt för arbetsplatser där trygghet och snabb reaktion är avgörande.
+Med intelligenta varningar, användarhantering och live-uppdateringar har du alltid full översikt – direkt i mobilen.
+
+Byggt av Team Code 6 för arbetsplatser som vägrar tumma på säkerheten.
+
+**Sentinel – trygghet på riktigt.**
